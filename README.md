@@ -1,8 +1,12 @@
-# README
-## 🤝 *I am Obed Tech*
-## 🌈 *my country is kenya*
-## 🪶 *current am student leaning java*
+- 👋 Hi, I’m @JawadYT36
+- 👀 I’m interested in khan ai ...
+- 🌱 I’m currently learning jave ...
+- 💞️ I’m looking to collaborate on khan ai ...
+- 📫 How to reach me whatsapp channel ...
+- 😄 Pronouns: smart 🤓...
+- ⚡ Fun fact: i am a developer ...
 
-<div align="center">
-  <img src="https://files.catbox.moe/le10rp.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
+<!---
+JawadYT36/JawadYT36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
