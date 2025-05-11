@@ -5,6 +5,11 @@
 - 📫 How to reach me whatsapp channel ...
 - 😄 Pronouns: smart 🤓...
 - ⚡ Fun fact: i am a developer ...
+  
+## *my profile picture*
+<div align="center">
+  <img src="https://files.catbox.moe/ggnnes.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
 
 <!---
 ObedTech003/ObedTech003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
