@@ -1,4 +1,4 @@
 # README
-##🤝 *I am Obed Tech*
+## 🤝 *I am Obed Tech*
 ## 🌈 *my country is kenya*
-##🪶 *current am student leaning java
+## 🪶 *current am student leaning java
