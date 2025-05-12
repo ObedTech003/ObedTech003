@@ -22,7 +22,7 @@
 <p style="text-align: center; font-size: 1.2em;">
   
 </a>
-<a href='https://me/254701082940' target="_blank">
+<a href='https://wa.me/254701082940' target="_blank">
   <img alt='OBED TECH' src='https://img.shields.io/badge/click%20OBED%20 TECH-darkpink?style=for-the-badge&logo=obedtech&logoColor=black'/>
 </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
